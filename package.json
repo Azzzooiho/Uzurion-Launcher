@@ -1,10 +1,10 @@
 {
-  "name": "Uzurion-Launcher",
-  "version": "2.0.5",
-  "productName": "Uzurion Launcher",
-  "description": "Uzurion Launcher",
+  "name": "Poulouk-Launcher",
+  "version": "1.0",
+  "productName": "Poulouk's PvP Faction Launcher",
+  "description": "Un PvP-Faction qui utilise le Poulouk Pack",
   "main": "app/index.html",
-  "author": "Luuxis",
+  "author": "Azzzooi.Ho",
   "window": {
     "title": "Uzurion update",
     "width": 400,
