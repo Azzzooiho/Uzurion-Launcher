@@ -33,7 +33,7 @@
   },
   "license": "CC0",
   "build": {
-    "appId": "Uzurion Launcher",
+    "appId": "Poulouk Launcher",
     "nwVersion": "0.60.0",
     "packed": true,
     "targets": [
@@ -56,13 +56,13 @@
     ],
     "outputPattern": "${NAME}-${PLATFORM}",
     "win": {
-      "productName": "Uzurion Launcher",
-      "companyName": "Uzurion Launcher",
+      "productName": "Poulouk Launcher",
+      "companyName": "Poulouk Launcher",
       "copyright": "copyright",
       "icon": "./app/assets/images/icons/icon.ico"
     },
     "mac": {
-      "displayName": "Uzurion-Launcher",
+      "displayName": "Poulouk-Launcher",
       "copyright": "copyright",
       "plistStrings": {
         "CFBundleIdentifier": "Uzurion-Launcher"
